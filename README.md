@@ -2,7 +2,7 @@
 
 In this project i have creacted my own ERC20 token call CORI Token (CORI) and i deployed it on Sepolia Ethereum TestNet and Mumbai Polygon TestNet using hardhat.
 
-![Picture ](https://drive.google.com/drive/folders/15oLP7pPKLILpQFFtX6UX9jnJ7n325jkY)
+![Picture ](https://drive.google.com/file/d/1AqSX3n6U8pnCaCbRCZygXuM8fYVdsKN7/view?usp=share_link)
 
 # Important Key Steps covered:
 
